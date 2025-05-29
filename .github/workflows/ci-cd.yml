@@ -34,5 +34,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: your-username/ci-cd-demo:latest
+          tags: navya480/ci-cd-demo:latest
 
