@@ -19,12 +19,20 @@ To automate the building, testing, and deployment process of a simple Node.js ap
 
 
 ci-cd-demo/
+
 ├── .github/workflows/
+
 │ └── ci-cd.yml # GitHub Actions Workflow
+
 ├── Dockerfile # Docker image definition
+
 ├── index.js # Express.js server logic
+
 ├── package.json # App dependencies
+
+
 ├── public/ # Static assets, animation
+
 └── README.md # Project documentation
 
 
