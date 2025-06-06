@@ -82,7 +82,7 @@ A short demo video showing the final deployed application output has been includ
 
 - 🎞️ File Name: ci-cd-output.mp4
 
-- 📥 [Download & View] (./Video/project%20output%20video-elevate%20labs.mp4)
+- 📥 [Download & View](./Video/project%20output%20video-elevate%20labs.mp4)
 
 ❗ Note: GitHub doesn't support direct playback for files larger than 25 MB. Please download the file to view it.
 
