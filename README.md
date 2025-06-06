@@ -77,6 +77,25 @@ All you need is Docker installed and access to pull from Docker Hub.
 - App running in a browser (EC2 IP or localhost)
 - Colorful UI with animations in the app output
 
+## 📽️ Output Demo Video
+A short demo video showing the final deployed application output has been included in the repository.
+
+- 🎞️ File Name: ci-cd-output.mp4
+
+- 📥 Download & View: (./Video/project%20output%20video-elevate%20labs.mp4)
+
+-❗ Note: GitHub doesn't support direct playback for files larger than 25 MB. Please download the file to view it.
+
+  ## 🔍 What’s in the video:
+
+- Final browser output after the CI/CD pipeline ran successfully
+
+- Confirmation of the deployed Node.js app with animations and styled UI
+
+- Shows that the Docker container ran successfully with the latest image
+
+This video helps verify that the CI/CD pipeline completed end-to-end and the application is live and working.  
+
 ## ✅ Outcome
 
 - Demonstrated how to use GitHub Actions for CI/CD without relying on any external cloud services
