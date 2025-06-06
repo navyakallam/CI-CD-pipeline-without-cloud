@@ -1,5 +1,9 @@
 # 🚀 CI/CD Pipeline with GitHub Actions & Docker (No Cloud Needed)
 
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/navyakallam/CI-CD-pipeline-without-cloud/ci-cd.yml?branch=main)
+![Docker Pulls](https://img.shields.io/docker/pulls/navya480/ci-cd-demo)
+
+
 This project showcases how to set up a complete CI/CD pipeline using GitHub Actions and Docker to build, test, and deploy a Node.js application **without using any cloud CI/CD services**. The goal is to demonstrate local deployment using Docker and GitHub workflows efficiently.
 
 ## 🎯 Objective
